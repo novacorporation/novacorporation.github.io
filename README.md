@@ -1,2 +1,3 @@
 # novacorporation.github.io
-A website for Nova Corporation (kind of the main website)
+NEW WEBSITE: https://nova-official.github.io
+Or click this [link](https://nova-official.github.io)
